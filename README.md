@@ -12,7 +12,7 @@
 <table>
   <tr>
     <td align="center" width="200">
-      <img src="https://avatars.githubusercontent.com/u/0000000?v=4" width="150" alt="Khaled Mashal Avatar" style="border-radius:50%;" />
+      <img src="https://avatars.githubusercontent.com/u/185419252?v=4" width="150" alt="Khaled Mashal Avatar" style="border-radius:100%;" />
     </td>
     <td>
       <h2>👨‍💻 About Me</h2>
