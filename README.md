@@ -21,7 +21,7 @@
         Senior Software Developer | AI Enthusiast | Open Source Contributor
       </p>
       <ul>
-        <li>🌟 8+ years of professional experience</li>
+        <li>🌟 6+ years of professional experience</li>
         <li>🧑‍💻 Backend | AI | Full-stack | DevOps</li>
         <li>🚀 Building robust, scalable, and secure systems</li>
         <li>🎓 Lifelong learner and mentor</li>
