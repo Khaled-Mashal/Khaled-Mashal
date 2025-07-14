@@ -114,10 +114,13 @@
 <h2 align="center">🛠️ Tech Stack</h2>
 <p align="center">
   <img
-    src="https://skillicons.dev/icons?i=python,java,js,ts,go,cpp,react,nextjs,nodejs,express,django,flask,fastapi,postgres,mysql,mongodb,redis,aws,docker,kubernetes,terraform,git,github,linux"
+    src="https://skillicons.dev/icons?i=python,java,js,ts,go,cpp,dotnet,react,nextjs,nodejs,express,django,flask,fastapi,postgres,mysql,mongodb,redis,aws,docker,kubernetes,terraform,git,github,linux"
     alt="Tech Icons"
   />
 </p>
+
+
+
 
 <!-- Animated Contribution Graph -->
 <p align="center">
